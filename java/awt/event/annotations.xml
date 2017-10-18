@@ -1,0 +1,5 @@
+<root>
+    <item name='java.awt.event.MouseEvent MOUSE_PRESSED'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+</root>
